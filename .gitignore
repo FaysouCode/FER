@@ -3,6 +3,9 @@
 *.user
 *.sln.docstates
 
+.idea/
+cmake-build-debug/
+
 # Builds
 *_i.c
 *_p.c
